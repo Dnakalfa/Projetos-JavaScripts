@@ -6,13 +6,16 @@ function converterMoeda() {
 
     switch (moedaSelecionada) {
         case "dolar":
-            cotacao = 5.32; // Cotação do Dólar
+            cotacao = 4.91; // Cotação do Dólar
             break;
         case "euro":
-            cotacao = 6.20; // Cotação do Euro
+            cotacao = 5.26; // Cotação do Euro
             break;
         case "cripto":
-            cotacao = 32000; // Cotação de uma Criptomoeda fictícia
+            cotacao = 181929.01; // Cotação de uma Criptomoeda
+            break;
+        case "Peso Argentino":
+            cotacao = 0.014; // cotação deo peso Argentino
             break;
         default:
             alert("Moeda não reconhecida");
