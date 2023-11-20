@@ -9,7 +9,7 @@
 
 
 
-# Olá, eu sou a Umberto! 👋
+# Olá, eu sou o Umberto! 👋
 
 
 ## Desenvlvido em curso certificado pela Alure
